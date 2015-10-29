@@ -7,12 +7,14 @@
 
 {
     "sProcessing":   "מעבד...",
+    "sLoadingRecords": "טוען...",
     "sLengthMenu":   "הצג _MENU_ פריטים",
     "sZeroRecords":  "לא נמצאו רשומות מתאימות",
     "sInfo": "_START_ עד _END_ מתוך _TOTAL_ רשומות" ,
     "sInfoEmpty":    "0 עד 0 מתוך 0 רשומות",
     "sInfoFiltered": "(מסונן מסך _MAX_  רשומות)",
     "sInfoPostFix":  "",
+    "sInfoThousands":  ",",
     "sSearch":       "חפש:",
     "sUrl":          "",
     "oPaginate": {
@@ -20,5 +22,10 @@
         "sPrevious": "קודם",
         "sNext":     "הבא",
         "sLast":     "אחרון"
+    },
+    "aria": {
+        "sortAscending":  ": להפעלת מיון בסדר עולה",
+        "sortDescending": ": להפעלת מיון בסדר יורד
     }
 }
+
